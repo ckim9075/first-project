@@ -1,0 +1,26 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Momentum App</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class= "hello">
+      <h1 class ="sexy-font">Hello! </h1></div>
+      <div>There!</div>
+      <div>Hi!</div>
+      <p>Great!</p>
+
+      <img class = "image-size" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1TxUVFr5VdhgwqzVv_KqlNhRIdZp-F86_zbh0DSPUQJNHly3V"/>  
+
+
+      <input type = "text">
+      <input type = "password">
+      <button>Login</button>
+      <a href = https://www.google.com>go to google...</a>
+
+    <script src="script.js"></script>
+  </body>
+</html>
